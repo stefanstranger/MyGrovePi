@@ -7,7 +7,8 @@ Example to show how you can create a website running on RaspberryPi 2 which turn
 # Install
 1. Follow the GrovePi get started documentation (http://www.dexterindustries.com/grovepi-tutorials-documentation/)
 2. Install Flask on your RaspberryPi (http://mattrichardson.com/Raspberry-Pi-Flask/)
-3. Create folder structure to host grovepi_button.py script and start.html file.
+3. Download grovepi_button.py and start.html files from https://github.com/stefanstranger/MyGrovePi/tree/master/Relay
+4. Create folder structure to host grovepi_button.py script and start.html file on your RaspberryP
    I created the following structure: /home/pi/Desktop/Scripts/templates
    Store grovepi_button.py in /home/pi/Desktop/Scripts folder and start.html in /home/pi/Desktop/Scripts/templates folder
 
